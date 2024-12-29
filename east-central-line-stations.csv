@@ -1,0 +1,77 @@
+Station,Detail,Hugh,Charlie,George,Oliver,Mean
+Hainault,Platform,7,8,7,8,7.5
+Hainault,Concourse ,5,6,8,6,6.25
+Hainault,Exterior ,1,2,4,4,2.75
+Hainault,Misc,9,9,9,8,8.75
+Fairlop,Platform,6,4,6,7,5.75
+Fairlop,Concourse ,2,5,2,4,3.25
+Fairlop,Exterior ,6,7,8,6,6.75
+Fairlop,Misc,3,3,7,3,4
+Barkingside,Platform,5,3,7,6,5.25
+Barkingside,Concourse ,7,4,6,6,5.75
+Barkingside,Exterior ,6,6,6,7,6.25
+Barkingside,Misc,8,9,8,6,7.75
+Newbury Park,Platform,7,7,7,7,7
+Newbury Park,Concourse ,6,6,7,7,6.5
+Newbury Park,Exterior ,9,9,9,8,8.75
+Newbury Park,Misc,5,3,5,3,4
+Gants Hill,Platform,8,9,8,8,8.25
+Gants Hill,Concourse ,9,9,9,10,9.25
+Gants Hill,Exterior ,3,3,2,1,2.25
+Gants Hill,Misc,5,5,5,3,4.5
+Redbridge,Platform,3,1,3,7,3.5
+Redbridge,Concourse ,8,8,9,8,8.25
+Redbridge,Exterior ,5,7,9,6,6.75
+Redbridge,Misc,5,5,5,5,5
+Wanstead,Platform,8,7,8,7,7.5
+Wanstead,Concourse ,4,4,6,6,5
+Wanstead,Exterior ,7,7,7,7,7
+Wanstead,Misc,7,7,7,7,7
+Leytonstone,Platform,3,2,2,3,2.5
+Leytonstone,Concourse ,2,3,2,5,3
+Leytonstone,Exterior ,4,2,4,4,3.5
+Leytonstone,Misc,10,10,10,10,10
+Roding Valley,Platform,3,3,5,4,3.75
+Roding Valley,Concourse ,1,1,3,2,1.75
+Roding Valley,Exterior ,4,6,5,3,4.5
+Roding Valley,Misc,8,9,8,8,8.25
+Chigwell,Platform,4,5,5,5,4.75
+Chigwell,Concourse ,4,7,6,4,5.25
+Chigwell,Exterior ,3,3,6,6,4.5
+Chigwell,Misc,4,4,7,4,4.75
+Grange Hill,Platform,6,6,8,6,6.5
+Grange Hill,Concourse ,7,6,8,5,6.5
+Grange Hill,Exterior ,2,2,4,2,2.5
+Grange Hill,Misc,7,6,9,7,7.25
+Buckhurst Hill,Platform,5,3,6,6,5
+Buckhurst Hill,Concourse ,5,5,6,7,5.75
+Buckhurst Hill,Exterior ,6,6,8,7,6.75
+Buckhurst Hill,Misc,4,4,5,4,4.25
+Woodford,Platform,5,4,8,5,5.5
+Woodford,Concourse ,4,5,4,4,4.25
+Woodford,Exterior ,2,1,4,4,2.75
+Woodford,Misc,6,4,6,6,5.5
+South Woodford,Platform,3,5,6,4,4.5
+South Woodford,Concourse ,4,4,4,4,4
+South Woodford,Exterior ,4,4,6,5,4.75
+South Woodford,Misc,6,4,6,9,6.25
+Snaresbrook,Platform,7,8,8,7,7.5
+Snaresbrook,Concourse ,6,6,6,5,5.75
+Snaresbrook,Exterior ,8,9,9,8,8.5
+Snaresbrook,Misc,4,5,6,6,5.25
+Loughton,Platform,8,7,8,7,7.5
+Loughton,Concourse ,6,4,7,6,5.75
+Loughton,Exterior ,3,3,5,6,4.25
+Loughton,Misc,9,9,9,9,9
+Debden,Platform,7,9,8,5,7.25
+Debden,Concourse ,3,5,5,4,4.25
+Debden,Exterior ,2,2,3,3,2.5
+Debden,Misc,6,10,9,5,7.5
+Theydon Bois,Platform,7,7,7,7,7
+Theydon Bois,Concourse ,3,3,3,3,3
+Theydon Bois,Exterior ,5,4,5,6,5
+Theydon Bois,Misc,2,2,4,4,3
+Epping,Platform,3,3,5,6,4.25
+Epping,Concourse ,2,2,2,4,2.5
+Epping,Exterior ,4,4,4,5,4.25
+Epping,Misc,4,2,6,5,4.25
